@@ -1,4 +1,8 @@
 Flask==2.3.3
 geopandas==0.14.0
-shapely==1.8.5.post1
-pyproj>=3.7.1
+fiona==1.10.1
+shapely==1.8.5
+pyproj==3.7.1
+pandas==2.2.3
+numpy==2.2.5
+gunicorn==20.1.0
